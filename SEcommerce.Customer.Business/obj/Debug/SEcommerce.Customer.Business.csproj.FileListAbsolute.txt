@@ -1,0 +1,6 @@
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Business\bin\Debug\SEcommerce.Customer.Business.dll
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Business\bin\Debug\SEcommerce.Customer.Business.pdb
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Business\obj\Debug\SEcommerce.Customer.Business.csprojAssemblyReference.cache
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Business\obj\Debug\SEcommerce.Customer.Business.csproj.CoreCompileInputs.cache
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Business\obj\Debug\SEcommerce.Customer.Business.dll
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Business\obj\Debug\SEcommerce.Customer.Business.pdb

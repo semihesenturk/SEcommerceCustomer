@@ -1,0 +1,12 @@
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.DataAccess\bin\Debug\SEcommerce.Customer.DataAccess.dll.config
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.DataAccess\bin\Debug\SEcommerce.Customer.DataAccess.dll
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.DataAccess\bin\Debug\SEcommerce.Customer.DataAccess.pdb
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.DataAccess\bin\Debug\EntityFramework.dll
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.DataAccess\bin\Debug\EntityFramework.xml
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.DataAccess\obj\Debug\SEcommerce.Customer.DataAccess.csprojAssemblyReference.cache
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.DataAccess\obj\Debug\SEcommerce.Customer.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.DataAccess\obj\Debug\SEcommerce.Customer.DataAccess.csproj.CopyComplete
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.DataAccess\obj\Debug\SEcommerce.Customer.DataAccess.dll
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.DataAccess\obj\Debug\SEcommerce.Customer.DataAccess.pdb
