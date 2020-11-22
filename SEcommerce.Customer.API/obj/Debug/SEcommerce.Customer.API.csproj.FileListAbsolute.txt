@@ -83,3 +83,14 @@ D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.API\obj\Debug\SEco
 D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.API\obj\Debug\SEcommerce.Customer.API.csproj.CopyComplete
 D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.API\obj\Debug\SEcommerce.Customer.API.dll
 D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.API\obj\Debug\SEcommerce.Customer.API.pdb
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.API\bin\SEcommerce.Customer.Business.dll
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.API\bin\SEcommerce.Customer.DataAccess.dll
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.API\bin\SEcommerce.Customer.Entites.dll
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.API\bin\EntityFramework.dll
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.API\bin\SEcommerce.Customer.Business.pdb
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.API\bin\SEcommerce.Customer.DataAccess.pdb
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.API\bin\SEcommerce.Customer.DataAccess.dll.config
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.API\bin\SEcommerce.Customer.Entites.pdb
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.API\bin\EntityFramework.xml
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.API\bin\EntityFramework.SqlServer.dll
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.API\bin\EntityFramework.SqlServer.xml

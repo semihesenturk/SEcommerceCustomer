@@ -4,3 +4,11 @@ D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Business\obj\Debug
 D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Business\obj\Debug\SEcommerce.Customer.Business.csproj.CoreCompileInputs.cache
 D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Business\obj\Debug\SEcommerce.Customer.Business.dll
 D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Business\obj\Debug\SEcommerce.Customer.Business.pdb
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Business\bin\Debug\SEcommerce.Customer.DataAccess.dll
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Business\bin\Debug\SEcommerce.Customer.Entites.dll
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Business\bin\Debug\EntityFramework.dll
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Business\bin\Debug\SEcommerce.Customer.DataAccess.pdb
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Business\bin\Debug\SEcommerce.Customer.DataAccess.dll.config
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Business\bin\Debug\SEcommerce.Customer.Entites.pdb
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Business\bin\Debug\EntityFramework.xml
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Business\obj\Debug\SEcommerce.Customer.Business.csproj.CopyComplete

@@ -12,7 +12,7 @@ namespace SEcommerce.Customer.Business.Concrete
             _customerDal = customerDal;
         }
 
-        public List<Entites.Concrete.Customer> GetAll()
+        public List<Entites.Concrete.Customer> GetCustomers()
         {
             return _customerDal.GetAll();
         }

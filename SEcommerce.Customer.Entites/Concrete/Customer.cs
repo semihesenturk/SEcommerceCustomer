@@ -1,7 +1,9 @@
 ﻿using SEcommerce.Customer.Entites.Abstract;
+using System;
 
 namespace SEcommerce.Customer.Entites.Concrete
 {
+    [Serializable]
     public class Customer : BaseEntity, IEntity
     {
         public string CustomerFirstName { get; set; }
