@@ -10,3 +10,5 @@ D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.DataAccess\obj\Deb
 D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.DataAccess\obj\Debug\SEcommerce.Customer.DataAccess.csproj.CopyComplete
 D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.DataAccess\obj\Debug\SEcommerce.Customer.DataAccess.dll
 D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.DataAccess\obj\Debug\SEcommerce.Customer.DataAccess.pdb
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.DataAccess\bin\Debug\SEcommerce.Customer.Entites.dll
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.DataAccess\bin\Debug\SEcommerce.Customer.Entites.pdb

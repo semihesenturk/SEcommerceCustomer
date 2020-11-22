@@ -61,7 +61,12 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\SEcommerce.Customer.Entites\SEcommerce.Customer.Entites.csproj">
+      <Project>{b3cd9032-b146-434e-bc49-3f802e7e6e2a}</Project>
+      <Name>SEcommerce.Customer.Entites</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
