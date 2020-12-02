@@ -43,7 +43,8 @@ namespace SEcommerce.Customer.Business.Concrete
 
         public int UpdateCustomer(Entites.Concrete.Customer customer)
         {
-            throw new System.NotImplementedException();
+            _customerDal.Update(customer);
+            return 1;
         }
 
         public int DeleteCustomer(Entites.Concrete.Customer customer)
