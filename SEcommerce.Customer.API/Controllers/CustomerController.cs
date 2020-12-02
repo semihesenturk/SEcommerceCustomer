@@ -2,7 +2,9 @@
 using SEcommerce.Customer.Business.Abstract;
 using SEcommerce.Customer.Business.Concrete;
 using SEcommerce.Customer.DataAccess.Concrete.EntityFramework;
+using System.Web.Http;
 using System.Web.Mvc;
+using HttpPostAttribute = System.Web.Http.HttpPostAttribute;
 
 namespace SEcommerce.Customer.API.Controllers
 {
@@ -15,10 +17,30 @@ namespace SEcommerce.Customer.API.Controllers
         }
 
         // GET: Customer
-        public JsonResult GetAllCustomers()
+        public ActionResult GetAllCustomers()
         {
             var customers = _customerService.GetCustomers();
-            return Json(customers, JsonRequestBehavior.AllowGet);
+            var seriliazedObject = JsonConvert.SerializeObject(customers, Formatting.Indented);
+            return Json(seriliazedObject, JsonRequestBehavior.AllowGet);
+        }
+
+        public ActionResult GetCustomerByEmail(string email)
+        {
+            var customer = _customerService.GetCustomerByEmail(email);
+            var seriliazedObject = JsonConvert.SerializeObject(customer, Formatting.Indented);
+            return Json(seriliazedObject, JsonRequestBehavior.AllowGet);
+        }
+
+        [HttpPost]
+        public ActionResult AddCustomer([FromBody] Entites.Concrete.Customer customer)
+        {
+            var resultCheck = _customerService.SaveCustomer(customer);
+            if (resultCheck > 0)
+            {
+                return Json(true, JsonRequestBehavior.AllowGet);
+            }
+
+            return Json(false, JsonRequestBehavior.AllowGet);
         }
     }
 }

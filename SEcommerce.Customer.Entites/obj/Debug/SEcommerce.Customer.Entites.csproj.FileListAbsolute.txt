@@ -4,3 +4,5 @@ D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Entites\obj\Debug\
 D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Entites\obj\Debug\SEcommerce.Customer.Entites.csproj.CoreCompileInputs.cache
 D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Entites\obj\Debug\SEcommerce.Customer.Entites.dll
 D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Entites\obj\Debug\SEcommerce.Customer.Entites.pdb
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Entites\bin\Debug\Json.Net.dll
+D:\Projects\SEcommerce\SEcommerceCustomer\SEcommerce.Customer.Entites\obj\Debug\SEcommerce.Customer.Entites.csproj.CopyComplete

@@ -30,13 +30,13 @@ namespace SEcommerce.Customer.DataAccess.Concrete.EntityFramework
             }
         }
 
-        public void Add(TEntity entity)
+        public int Add(TEntity entity)
         {
             using (TContext context = new TContext())
             {
                 var addedEntity = context.Entry(entity);
                 addedEntity.State = EntityState.Added;
-                context.SaveChanges();
+                return context.SaveChanges();
             }
         }
 

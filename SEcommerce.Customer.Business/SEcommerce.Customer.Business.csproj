@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Json.Net, Version=1.0.23.1, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Json.Net.1.0.23\lib\netstandard2.0\Json.Net.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -45,7 +48,6 @@
     <Compile Include="Concrete\CustomerManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\SEcommerce.Customer.DataAccess\SEcommerce.Customer.DataAccess.csproj">
       <Project>{393ac169-655a-4d93-895a-f6c446c8be8d}</Project>
@@ -55,6 +57,9 @@
       <Project>{b3cd9032-b146-434e-bc49-3f802e7e6e2a}</Project>
       <Name>SEcommerce.Customer.Entites</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
